@@ -1,14 +1,13 @@
 Define the .env file the following parameters:
 
-`
-client_id=<CLIENT_ID>
+`client_id=<CLIENT_ID>`
 
-client_secret=<CLIENT_SECRET>
+`client_secret=<CLIENT_SECRET>`
 
-scopes=read_products,write_products //add more if need it
+`scopes=read_products,write_products //add more if need it`
 
-redirect_uri=http://localhost:4000/api/shopify/redirect
-`
+`redirect_uri=http://localhost:4000/api/shopify/redirect`
+
 
 To Execute the server:
 
